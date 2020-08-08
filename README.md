@@ -1,5 +1,5 @@
 # Generate-Sketch-from-Colorful-images
-To generate sketch from colorful sketches
+To generate sketch from colorful images
 
 ## Load the required libraries
 - imageio
